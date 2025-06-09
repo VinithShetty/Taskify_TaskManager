@@ -2,7 +2,7 @@
 
 **Organize. Prioritize. Simplify.**
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Framework-Flask-yellow.svg)](https://flask.palletsprojects.com/)
 [![Database](https://img.shields.io/badge/Database-SQLite%20%7C%20MySQL%20%7C%20MongoDB-lightgrey.svg)](#)
 [![Postman](https://img.shields.io/badge/API%20Tested%20With-Postman-orange.svg)](https://www.postman.com/)
