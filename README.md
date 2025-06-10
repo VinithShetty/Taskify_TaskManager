@@ -31,7 +31,7 @@
 
 ## 🛠 Tech Stack
 
-- **Python 3.x** – Core backend programming language  
+- **Python 3.9** – Core backend programming language  
 - **Flask** – Lightweight web framework  
 - **SQLite/MySQL** – Relational databases (easily swappable with MongoDB)  
 - **SQLAlchemy** – ORM for database interaction  
@@ -47,7 +47,7 @@
 
 Make sure you have the following installed:
 
-- Python 3.x  
+- Python 3.9  
 - `pip` (Python package installer)
 - A database: SQLite (default), MySQL, or MongoDB  
 - Postman (optional, for API testing)
