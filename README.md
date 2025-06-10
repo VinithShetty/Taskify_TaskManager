@@ -20,7 +20,6 @@
   - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Testing](#testing)
 
 ---
 
